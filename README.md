@@ -1,0 +1,3 @@
+Project ini merupakan simulasi manajemen delivery queue berbasis priority queue yang mengutamakan opsi pengiriman dari pelanggan. Implementasi ini merepresentasikan bagaimana sistem logistik modern menyusun prioritas distribusi paket, berdasarkan level urgensi opsi pengiriman seperti Instant, Same Day, Reguler, dan Hemat.
+
+Data diolah dari file .xlsx dan diproses ke dalam antrian prioritas menggunakan struktur data custom-built PriorityQueue, yang kemudian ditampilkan dalam urutan pengiriman. Menariknya, hasil pemrosesan divisualisasikan dalam bentuk peta interaktif menggunakan Folium untuk menunjukkan lokasi pengiriman pelanggan.
